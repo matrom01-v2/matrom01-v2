@@ -3,8 +3,8 @@
 
 About me:
 
-- I am currently a student at New Mexico State University, graduating in spring 2023.
-- I am majoring in Computer Science and Linguistics.
+- I graduated from New Mexico State University in Spring of 2023.
+- I have a Bachelor's in Computer Science and a Bachelor's in Linguistics.
 - I am interested in software, web, and game development.
 - I also have been studying Japanese language for 3 years now.
 - While not programming, I love to play the violin and piano, paint, hike, and of course play games!
