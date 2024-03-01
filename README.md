@@ -1,4 +1,4 @@
-### Hello there, I'm Mateo! こんにちは、私はマテオです！👋
+### Hello there, I'm Mateo! 初めまして！　私はマテオと言います。👋
 ----
 
 About me:
